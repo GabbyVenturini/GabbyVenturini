@@ -1,0 +1,4 @@
+-👋 Olá, sou @GabbyVenturini
+- 👀 Tenho interesse em aprender e me desenvolver como profissional na area tech.
+- 🌱 Atualmente estou aprendendo C#, Java, JavaScript, CSS e HTML
+- 📫 Como chegar até mim LinkedIn: https://www.linkedin.com/in/gabrielly-oliveira-venturini-687010132/

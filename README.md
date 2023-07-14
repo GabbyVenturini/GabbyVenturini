@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gabrilly Venturini
+## Olá! Eu sou a Gabrielly Venturini
  <div>
   <a href="https://github.com/gabbyventurini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabbyventurini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

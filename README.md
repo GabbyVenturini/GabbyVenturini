@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbyventurini&layout=compact&langs_count=16&theme=dracula"/>
 <div>
   
-## Algumas tecnologias que eu tenho conhecimento
+## Algumas tecnologias que tenho conhecimento
 
 <div style="display: inline_block">
    <img align="center" alt="java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />

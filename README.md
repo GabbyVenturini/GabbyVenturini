@@ -1,4 +1,4 @@
-## Olá! Eu sou a Gabrielly Venturini
+## Bem vindo ao meu perfil!
  <div align="center">
 <a href="https://github.com/PFonsecaFV">
 <img height="150%" src="https://github-readme-stats.vercel.app/api?username=GabbyVenturini&theme=github_dark&show_icons=true"> 
@@ -6,7 +6,7 @@
 </div>
 
   
-## Algumas tecnologias que tenho conhecimento
+## Algumas linguagens, frameworks e tecnologias que tenho conhecimento
 
 <div align="center">
 <p align="center">

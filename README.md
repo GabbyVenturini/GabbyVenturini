@@ -5,8 +5,6 @@
  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbyventurini&theme=github_dark&show_icons=true"/>
 </div>
 
-  
-## Algumas linguagens, frameworks e tecnologias que tenho conhecimento
 
 <div align="center">
 <p align="center">
@@ -15,7 +13,6 @@
    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_java.svg" width="60" fill="none" />
    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_html.svg" width="60" fill="none" />
    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_css.svg" width="60" fill="none" />
-   <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_nodejs.svg" width="60" fill="none" />
    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_js.svg" width="60" fill="none" />
    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_mysql.svg" width="60" fill="none" />
    <img src="https://github.com/PFonsecaFV/PFonsecaFV/blob/main/src/icons/ic_dbeaver.svg" width="60" fill="none" />

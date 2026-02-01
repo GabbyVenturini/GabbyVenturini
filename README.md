@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Gabi!
+#  Bem vindo(a) ao meu perfil!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedora Web & Mobile  
 

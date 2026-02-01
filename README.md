@@ -1,6 +1,4 @@
-#  Bem vindo(a) ao meu perfil!
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas | 💻 Desenvolvedora Web & Mobile  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e Gestão em Tecnologia da Informação | 💻 Desenvolvedora Fullstack
 
 ---
 ## 📊 Estatísticas

@@ -1,4 +1,4 @@
-🎓 Estudante de Análise e Desenvolvimento de Sistemas e Gestão em Tecnologia da Informação
+📚 Estudante de ADS e Gestão de Tecnologia  <br>
 💻 Desenvolvedora Fullstack
 
 ---

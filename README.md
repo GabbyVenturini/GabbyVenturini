@@ -1,16 +1,7 @@
-🎓 Estudante de Análise e Desenvolvimento de Sistemas e Gestão em Tecnologia da Informação | 💻 Desenvolvedora Fullstack
+🎓 Estudante de Análise e Desenvolvimento de Sistemas e Gestão em Tecnologia da Informação
+💻 Desenvolvedora Fullstack
 
 ---
-## 📊 Estatísticas
-
-<div>
-  <a href="https://github.com/gabbyventurini">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabbyventurini&show_icons=true&theme=radical&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/gabbyventurini">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabbyventurini&layout=compact&langs_count=8&theme=radical" />
-  </a>
-</div>
 
 ## 💻 Tecnologias
 

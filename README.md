@@ -39,9 +39,9 @@
   <a href="mailto:gabbyventurini@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/gabrielly-oliveira-venturini/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/gabrielly-oliveira-venturini-687010132/">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>&nbsp;&nbsp;
   <a href="https://wa.me/qr/AWE6JQVZVNJQE1">
     <img src="https://img.shields.io/badge/-WhatsApp-%23333?style=for-the-badge&logo=whatsapp&logoColor=green"/>
   </a>&nbsp;&nbsp;

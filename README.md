@@ -14,6 +14,9 @@
   <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img align="center" alt="C#" src="https://img.shields.io/badge/CSharp-%23239120.svg?style=for-the-badge&logo=CSharp&logoColor=white" />
+
+
   <br><br>
 
   <!-- Bancos de dados -->
